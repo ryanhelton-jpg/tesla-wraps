@@ -11,7 +11,7 @@ import sys
 import math
 import random
 
-TEMPLATE_PATH = os.path.join(os.path.dirname(__file__), '..', 'templates', 'modely-2025-base', 'template.png')
+TEMPLATE_PATH = os.path.join(os.path.dirname(__file__), '..', 'templates', 'modely-2025-premium', 'template.png')
 OUTPUT_DIR = os.path.join(os.path.dirname(__file__), '..', 'skins')
 
 
